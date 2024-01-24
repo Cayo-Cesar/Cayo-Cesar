@@ -13,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cayo-cesar&show_icons=true&locale=en&layout=compact" alt="cayo-cesar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cayo-cesar&show_icons=true&locale=en" alt="cayo-cesar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cayo-cesar&" alt="cayo-cesar" /></p>
