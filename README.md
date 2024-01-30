@@ -38,4 +38,4 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/Cayo-Cesar/Cayo-Cesar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cayo-cesar/cayo-cesar/blob/output/github-contribution-grid-snake.svg)
