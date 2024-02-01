@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cayo-Cesar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=cayo-cesar&show_icons=true&theme=dark" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=cayo-cesar&show_icons=true&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cayo-Cesar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
     </td>
   </tr>
 </table>
