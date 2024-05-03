@@ -1,6 +1,7 @@
 <h1 align="center">Olá, me chamo Cayo Cesar</h1>
 <h3 align="center">Estudante de Ciência da Computação pela Universidade Federal do Piauí</h3>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/cayocesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cayocesar" height="30" width="40" /></a>
